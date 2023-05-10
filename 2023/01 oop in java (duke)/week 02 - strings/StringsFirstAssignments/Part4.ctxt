@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Part4
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Part4.\n\ \n\ @author\ (Ihr\ Name)\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=url
+comment1.target=java.lang.String\ youtubeURLs(java.lang.String)
+comment2.params=
+comment2.target=void\ testing()
+numComments=3
