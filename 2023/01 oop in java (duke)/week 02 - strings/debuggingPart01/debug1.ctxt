@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=debug1
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ debug1.\n\ \n\ @author\ (Ihr\ Name)\ \n\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=input
+comment1.target=void\ findAbc(java.lang.String)
+comment2.params=
+comment2.target=void\ test()
+numComments=3
